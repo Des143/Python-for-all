@@ -121,6 +121,8 @@ def main():
     shapes = [Rectangle(5, 3), Circle(4)]
     for shape in shapes:
         print(f"Shape Area: {shape.area()}")
+#this is comment
+print("hello")
 
 if __name__ == "__main__":
     main()
