@@ -62,3 +62,11 @@
 - Do you understand basic input/output?
 
 **Happy Coding!** 🐍
+
+## 🧭 Navigation
+
+<div align="center">
+| Previous | [Next: 02_data_types](../02_data_types/README.md) |
+</div>
+
+[🏠 Return to Python Foundations](../README.md)

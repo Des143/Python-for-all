@@ -103,3 +103,11 @@ num_int = int(num_str)
 - Can you create a dictionary?
 
 **Keep Exploring!** 🐍
+
+## 🧭 Navigation
+
+<div align="center">
+| [Previous: 01_basics](../01_basics/README.md) | [Next: 03_variables](../03_variables/README.md) |
+</div>
+
+[🏠 Return to Python Foundations](../README.md)

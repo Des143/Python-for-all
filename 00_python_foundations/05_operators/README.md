@@ -118,3 +118,11 @@ complex_expr = (2 + 3) * 4  # 20
 - Can you predict operator results?
 
 **Operator Mastery Awaits!** 🐍
+
+## 🧭 Navigation
+
+<div align="center">
+| [Previous: 04_type_conversion](../04_type_conversion/README.md) | Next |
+</div>
+
+[🏠 Return to Python Foundations](../README.md)

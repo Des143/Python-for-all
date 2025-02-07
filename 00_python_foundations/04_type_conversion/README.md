@@ -109,3 +109,11 @@ float_prices = [float(price) for price in prices]
 - Can you safely convert user inputs?
 
 **Keep Exploring Type Magic!** 🐍
+
+## 🧭 Navigation
+
+<div align="center">
+| [Previous: 03_variables](../03_variables/README.md) | [Next: 05_operators](../05_operators/README.md) |
+</div>
+
+[🏠 Return to Python Foundations](../README.md)

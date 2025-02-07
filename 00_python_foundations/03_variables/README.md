@@ -101,3 +101,11 @@ x = [1, 2, 3] # Now a list
 - Can you create meaningful variable names?
 
 **Keep Coding!** 🐍
+
+## 🧭 Navigation
+
+<div align="center">
+| [Previous: 02_data_types](../02_data_types/README.md) | [Next: 04_type_conversion](../04_type_conversion/README.md) |
+</div>
+
+[🏠 Return to Python Foundations](../README.md)
