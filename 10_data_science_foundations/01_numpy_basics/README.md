@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# NUMPY BASICS Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Numerical computing fundamentals
 
 ## Learning Objectives
 1. Understand core concepts

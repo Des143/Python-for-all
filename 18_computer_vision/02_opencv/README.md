@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# OPENCV Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Computer vision with OpenCV
 
 ## Learning Objectives
 1. Understand core concepts

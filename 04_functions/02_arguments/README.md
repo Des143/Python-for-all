@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# ARGUMENTS Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Argument passing and types
 
 ## Learning Objectives
 1. Understand core concepts

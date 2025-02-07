@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# LOOPS Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+For, while, and loop control
 
 ## Learning Objectives
 1. Understand core concepts

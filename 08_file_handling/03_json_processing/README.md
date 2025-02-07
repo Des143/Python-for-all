@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# JSON PROCESSING Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+JSON data manipulation
 
 ## Learning Objectives
 1. Understand core concepts

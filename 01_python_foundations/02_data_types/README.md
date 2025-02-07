@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# DATA TYPES Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Understanding Python data types
 
 ## Learning Objectives
 1. Understand core concepts

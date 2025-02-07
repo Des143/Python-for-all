@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# SENSOR INTEGRATION Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Working with various sensors
 
 ## Learning Objectives
 1. Understand core concepts

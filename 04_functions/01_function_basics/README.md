@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# FUNCTION BASICS Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Defining and calling functions
 
 ## Learning Objectives
 1. Understand core concepts

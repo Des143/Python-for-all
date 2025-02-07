@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# BLOCKCHAIN AND CRYPTO Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Comprehensive guide for blockchain and crypto in Python
 
 ## Learning Objectives
 1. Understand core concepts

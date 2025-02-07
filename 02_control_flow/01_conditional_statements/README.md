@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# CONDITIONAL STATEMENTS Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+If-else and logical branching
 
 ## Learning Objectives
 1. Understand core concepts

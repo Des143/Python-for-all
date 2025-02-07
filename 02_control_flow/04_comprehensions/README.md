@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# COMPREHENSIONS Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+List, dict, and set comprehensions
 
 ## Learning Objectives
 1. Understand core concepts

@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# IMAGE PROCESSING Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Basic image manipulation
 
 ## Learning Objectives
 1. Understand core concepts

@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# TASK SCHEDULING Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Automated script execution
 
 ## Learning Objectives
 1. Understand core concepts

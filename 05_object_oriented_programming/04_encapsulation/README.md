@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# ENCAPSULATION Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Access modifiers and data hiding
 
 ## Learning Objectives
 1. Understand core concepts

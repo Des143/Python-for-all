@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# TYPE CONVERSION Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Type casting and conversion
 
 ## Learning Objectives
 1. Understand core concepts

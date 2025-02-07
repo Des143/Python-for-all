@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# CLASSES Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Class definition and basics
 
 ## Learning Objectives
 1. Understand core concepts

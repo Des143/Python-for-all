@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# ADVANCED NLP Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Complex NLP applications
 
 ## Learning Objectives
 1. Understand core concepts

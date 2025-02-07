@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# FLASK Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Lightweight web framework
 
 ## Learning Objectives
 1. Understand core concepts

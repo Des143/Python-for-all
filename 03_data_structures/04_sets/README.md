@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# SETS Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Unordered collection of unique elements
 
 ## Learning Objectives
 1. Understand core concepts

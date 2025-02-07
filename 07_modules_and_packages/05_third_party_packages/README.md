@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# THIRD PARTY PACKAGES Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Using external libraries
 
 ## Learning Objectives
 1. Understand core concepts

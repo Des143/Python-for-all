@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# REGRESSION Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Linear and logistic regression
 
 ## Learning Objectives
 1. Understand core concepts

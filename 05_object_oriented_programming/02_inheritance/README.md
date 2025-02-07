@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# INHERITANCE Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Class inheritance mechanisms
 
 ## Learning Objectives
 1. Understand core concepts

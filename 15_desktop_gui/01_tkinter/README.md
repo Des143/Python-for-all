@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# TKINTER Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Basic GUI development
 
 ## Learning Objectives
 1. Understand core concepts

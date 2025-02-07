@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# DECORATORS Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Function modification and metaprogramming
 
 ## Learning Objectives
 1. Understand core concepts

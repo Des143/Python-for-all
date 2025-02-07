@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# MATPLOTLIB DEEP Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Advanced Matplotlib techniques
 
 ## Learning Objectives
 1. Understand core concepts

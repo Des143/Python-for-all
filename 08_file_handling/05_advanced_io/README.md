@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# ADVANCED IO Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Advanced file and I/O operations
 
 ## Learning Objectives
 1. Understand core concepts

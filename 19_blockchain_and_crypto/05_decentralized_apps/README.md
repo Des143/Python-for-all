@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# DECENTRALIZED APPS Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Building blockchain applications
 
 ## Learning Objectives
 1. Understand core concepts

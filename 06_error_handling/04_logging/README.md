@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# LOGGING Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Logging and error tracking
 
 ## Learning Objectives
 1. Understand core concepts

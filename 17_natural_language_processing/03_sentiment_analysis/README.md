@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# SENTIMENT ANALYSIS Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Analyzing text emotions
 
 ## Learning Objectives
 1. Understand core concepts

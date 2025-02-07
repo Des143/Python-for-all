@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# CLUSTERING Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Unsupervised learning techniques
 
 ## Learning Objectives
 1. Understand core concepts

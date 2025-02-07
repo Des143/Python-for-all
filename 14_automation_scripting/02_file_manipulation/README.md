@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# FILE MANIPULATION Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Advanced file operations
 
 ## Learning Objectives
 1. Understand core concepts

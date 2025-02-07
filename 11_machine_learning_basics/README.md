@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# MACHINE LEARNING BASICS Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Comprehensive guide for machine learning basics in Python
 
 ## Learning Objectives
 1. Understand core concepts

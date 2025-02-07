@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# NETWORK SECURITY Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Secure network programming
 
 ## Learning Objectives
 1. Understand core concepts

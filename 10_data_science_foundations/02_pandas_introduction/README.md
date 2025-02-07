@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# PANDAS INTRODUCTION Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Data manipulation and analysis
 
 ## Learning Objectives
 1. Understand core concepts

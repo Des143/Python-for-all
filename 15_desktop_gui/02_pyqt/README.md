@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# PYQT Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Advanced GUI with PyQt
 
 ## Learning Objectives
 1. Understand core concepts

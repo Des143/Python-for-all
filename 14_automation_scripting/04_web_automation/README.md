@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# WEB AUTOMATION Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Browser and web task automation
 
 ## Learning Objectives
 1. Understand core concepts

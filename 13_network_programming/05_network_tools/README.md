@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# NETWORK TOOLS Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Creating network utilities
 
 ## Learning Objectives
 1. Understand core concepts

@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# WEB SCRAPING Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Extracting web data
 
 ## Learning Objectives
 1. Understand core concepts

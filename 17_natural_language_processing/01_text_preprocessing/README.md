@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# TEXT PREPROCESSING Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Cleaning and preparing text data
 
 ## Learning Objectives
 1. Understand core concepts

@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# ERROR HANDLING Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Comprehensive guide for error handling in Python
 
 ## Learning Objectives
 1. Understand core concepts

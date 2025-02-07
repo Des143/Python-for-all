@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# GENERATORS Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Advanced generator techniques
 
 ## Learning Objectives
 1. Understand core concepts

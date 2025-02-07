@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# CLASSIFICATION Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Classification algorithms
 
 ## Learning Objectives
 1. Understand core concepts

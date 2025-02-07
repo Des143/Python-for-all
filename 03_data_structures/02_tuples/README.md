@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# TUPLES Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Immutable sequence types
 
 ## Learning Objectives
 1. Understand core concepts

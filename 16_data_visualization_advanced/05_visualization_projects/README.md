@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# VISUALIZATION PROJECTS Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Real-world visualization challenges
 
 ## Learning Objectives
 1. Understand core concepts

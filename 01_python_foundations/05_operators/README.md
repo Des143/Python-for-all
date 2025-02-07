@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# OPERATORS Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Arithmetic, logical, and comparison operators
 
 ## Learning Objectives
 1. Understand core concepts

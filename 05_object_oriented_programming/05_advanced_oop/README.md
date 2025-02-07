@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# ADVANCED OOP Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Metaclasses and advanced OOP concepts
 
 ## Learning Objectives
 1. Understand core concepts

@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# SOCKET PROGRAMMING Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Network communication basics
 
 ## Learning Objectives
 1. Understand core concepts

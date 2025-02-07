@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# PROTOCOLS Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+HTTP, TCP/IP implementation
 
 ## Learning Objectives
 1. Understand core concepts

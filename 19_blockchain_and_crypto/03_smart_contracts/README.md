@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# SMART CONTRACTS Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Developing smart contract systems
 
 ## Learning Objectives
 1. Understand core concepts

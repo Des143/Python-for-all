@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# TEXT GENERATION Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Language models and generation
 
 ## Learning Objectives
 1. Understand core concepts

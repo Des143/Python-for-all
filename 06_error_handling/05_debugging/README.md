@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# DEBUGGING Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Advanced debugging techniques
 
 ## Learning Objectives
 1. Understand core concepts

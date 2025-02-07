@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# LISTS Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+List manipulation and methods
 
 ## Learning Objectives
 1. Understand core concepts

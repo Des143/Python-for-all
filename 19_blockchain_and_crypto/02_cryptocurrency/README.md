@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# CRYPTOCURRENCY Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Blockchain and cryptocurrency concepts
 
 ## Learning Objectives
 1. Understand core concepts

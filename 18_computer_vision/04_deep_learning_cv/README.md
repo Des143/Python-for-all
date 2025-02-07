@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# DEEP LEARNING CV Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Neural networks in computer vision
 
 ## Learning Objectives
 1. Understand core concepts

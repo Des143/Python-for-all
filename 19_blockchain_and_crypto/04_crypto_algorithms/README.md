@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# CRYPTO ALGORITHMS Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Cryptography implementation
 
 ## Learning Objectives
 1. Understand core concepts

@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# RECURSION Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Recursive function techniques
 
 ## Learning Objectives
 1. Understand core concepts

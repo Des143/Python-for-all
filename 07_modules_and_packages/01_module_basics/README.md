@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# MODULE BASICS Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Creating and importing modules
 
 ## Learning Objectives
 1. Understand core concepts

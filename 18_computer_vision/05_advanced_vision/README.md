@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# ADVANCED VISION Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Cutting-edge CV techniques
 
 ## Learning Objectives
 1. Understand core concepts

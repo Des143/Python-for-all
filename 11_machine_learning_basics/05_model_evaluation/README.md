@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# MODEL EVALUATION Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Performance metrics and validation
 
 ## Learning Objectives
 1. Understand core concepts

@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# TRY EXCEPT Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Error catching and handling
 
 ## Learning Objectives
 1. Understand core concepts

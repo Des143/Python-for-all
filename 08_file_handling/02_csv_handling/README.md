@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# CSV HANDLING Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Working with CSV files
 
 ## Learning Objectives
 1. Understand core concepts

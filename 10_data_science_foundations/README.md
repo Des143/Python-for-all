@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# DATA SCIENCE FOUNDATIONS Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Comprehensive guide for data science foundations in Python
 
 ## Learning Objectives
 1. Understand core concepts

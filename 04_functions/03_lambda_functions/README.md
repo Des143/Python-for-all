@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# LAMBDA FUNCTIONS Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Anonymous and inline functions
 
 ## Learning Objectives
 1. Understand core concepts

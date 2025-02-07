@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# HTTP BASICS Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Understanding web protocols
 
 ## Learning Objectives
 1. Understand core concepts

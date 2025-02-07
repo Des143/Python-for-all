@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# ROBOT CONTROL Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Robotic movement and control
 
 ## Learning Objectives
 1. Understand core concepts

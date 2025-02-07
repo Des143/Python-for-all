@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# FASTAPI Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Modern, fast web API development
 
 ## Learning Objectives
 1. Understand core concepts

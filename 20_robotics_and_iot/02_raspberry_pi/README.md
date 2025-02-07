@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# RASPBERRY PI Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+IoT projects with Raspberry Pi
 
 ## Learning Objectives
 1. Understand core concepts

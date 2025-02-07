@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# POLYMORPHISM Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Method overriding and polymorphic behavior
 
 ## Learning Objectives
 1. Understand core concepts

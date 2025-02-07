@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# VIRTUAL ENVIRONMENTS Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Dependency and environment management
 
 ## Learning Objectives
 1. Understand core concepts

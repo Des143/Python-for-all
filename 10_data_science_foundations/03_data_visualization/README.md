@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# DATA VISUALIZATION Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Matplotlib and data plotting
 
 ## Learning Objectives
 1. Understand core concepts

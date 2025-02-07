@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# IOT FUNDAMENTALS Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Internet of Things basics
 
 ## Learning Objectives
 1. Understand core concepts

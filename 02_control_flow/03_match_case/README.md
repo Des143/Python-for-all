@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# MATCH CASE Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+Pattern matching and advanced conditionals
 
 ## Learning Objectives
 1. Understand core concepts

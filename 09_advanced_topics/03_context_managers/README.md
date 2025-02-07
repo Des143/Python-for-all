@@ -1,7 +1,7 @@
-﻿# ROBOTICS AND IOT Learning Path
+﻿# CONTEXT MANAGERS Learning Path
 
 ## Overview
-Comprehensive guide for robotics and iot in Python
+With statement and resource management
 
 ## Learning Objectives
 1. Understand core concepts
