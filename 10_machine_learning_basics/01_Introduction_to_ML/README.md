@@ -107,11 +107,11 @@ pip install numpy pandas matplotlib seaborn \
 
 ---
 
-## 🔍 Assessment & Certification
+## 🔍 Assessments
 - Weekly coding challenges
 - Mini-projects
 - Final comprehensive project
-- Optional certification exam
+- Optional exam
 
 ---
 
